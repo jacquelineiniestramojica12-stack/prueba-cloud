@@ -1,0 +1,9 @@
+{
+  "name": "prueba-cloud",
+  "version": "1.0.0",
+  "description": "Servidor web para practica",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
